@@ -9,4 +9,16 @@ output:
 
 # This is Jeff's awesome website
 
+You can learn about me [here](about.html)
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+#let's add some links
+
+I often use [google](google.com) to do data science
+
+#let's add an image
+
+<img src="images/image.jpg" style="width:75%">
+
+![](ted.jpg)
